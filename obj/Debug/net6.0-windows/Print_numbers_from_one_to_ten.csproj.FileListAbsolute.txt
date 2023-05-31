@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\bin\Debug\net6.0-windows\Print_numbers_from_one_to_ten.exe
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\bin\Debug\net6.0-windows\Print_numbers_from_one_to_ten.deps.json
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\bin\Debug\net6.0-windows\Print_numbers_from_one_to_ten.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\bin\Debug\net6.0-windows\Print_numbers_from_one_to_ten.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\bin\Debug\net6.0-windows\Print_numbers_from_one_to_ten.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\Print_numbers_from_one_to_ten.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\Print_numbers_from_one_to_ten.Form1.resources
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\Print_numbers_from_one_to_ten.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\Print_numbers_from_one_to_ten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\Print_numbers_from_one_to_ten.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\Print_numbers_from_one_to_ten.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\Print_numbers_from_one_to_ten.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\Print_numbers_from_one_to_ten.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\refint\Print_numbers_from_one_to_ten.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\Print_numbers_from_one_to_ten.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\Print_numbers_from_one_to_ten.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Print_numbers_from_one_to_ten\obj\Debug\net6.0-windows\ref\Print_numbers_from_one_to_ten.dll
